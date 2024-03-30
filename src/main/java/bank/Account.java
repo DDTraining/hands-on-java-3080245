@@ -8,7 +8,7 @@ public class Account {
   public Account( int id, String type, double balance){
     setId(id);
     setType (type);
-    setBalance(balance)
+    setBalance(balance);
   }
 
   public int getId() {
